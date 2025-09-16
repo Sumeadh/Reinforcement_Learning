@@ -12,7 +12,7 @@ All my programs related to reinforcement learning are uploaded into this reposit
 - `Frozen_Lake.ipynb` - A Jupyter Notebook implementing reinforcement learning for the Frozen Lake environment.
 - `Monte_Carlo` - Files related to Monte Carlo methods in reinforcement learning.
 - `Reference` - Reference materials and documentation.
-- `dqn` - Files related to Deep Q-Network (DQN) implementations.
+- `Lunar Lander` - Files related to Deep Q-Network (DQN) implementations.
   - **Deep Q-Network (DQN):** DQN extends Q-learning by using deep neural networks to approximate the action-value function. This approach enables solving complex environments with high-dimensional state spaces, such as the Lunar Lander environment. [Result Video Link](https://drive.google.com/file/d/1J5dgN0O1mKSbpeAJtTyug-yA3CbFKC_6/view?usp=sharing)
 - `REINFORCE` - Implements the REINFORCE algorithm, a policy gradient method that optimizes the policy directly by maximizing the expected reward. This is particularly suited for environments with high variance in rewards.
 
